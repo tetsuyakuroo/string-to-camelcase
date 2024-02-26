@@ -1,6 +1,6 @@
 {
   "name": "@tetsuyakuroo/string-to-camelcase",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert string format to camelcase",
   "repository": {
     "type": "git",
