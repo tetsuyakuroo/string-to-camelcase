@@ -7,7 +7,7 @@
   "keywords": [
     "convert",
     "string",
-    "camelcase",
+    "camelcase"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
