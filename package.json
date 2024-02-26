@@ -1,0 +1,16 @@
+{
+  "name": "string-to-camelcase",
+  "version": "1.0.0",
+  "description": "Convert string format to camelcase",
+  "repository": "https://github.com/tetsuyakuroo/string-to-camelcase.git",
+  "main": "index.js",
+  "keywords": [
+    "convert",
+    "string",
+    "camelcase",
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ipan"
+}
