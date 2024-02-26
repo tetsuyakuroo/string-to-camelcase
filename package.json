@@ -20,5 +20,8 @@
     "url": "https://github.com/tetsuyakuroo/string-to-camelcase/issues"
   },
   "homepage": "https://github.com/tetsuyakuroo/string-to-camelcase#readme",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
